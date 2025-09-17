@@ -8,9 +8,11 @@ Deployed live on **Netlify** 🚀
 ---
 
 ## 📸 Screenshots
-<img width="1898" height="869" alt="image" src="https://github.com/user-attachments/assets/15d38afe-776c-41a1-a799-60cafdd493be" />
-<img width="1896" height="865" alt="image" src="https://github.com/user-attachments/assets/11490f90-e091-453c-9eef-9ffff1ff5fdc" />
-<img width="1902" height="871" alt="image" src="https://github.com/user-attachments/assets/6665b332-f25d-446d-9696-5c8e4aee1670" />
+<img width="1000" height="571" alt="image" src="https://github.com/user-attachments/assets/6665b332-f25d-446d-9696-5c8e4aee1670" />
+<img width="1000" height="556" alt="image" src="https://github.com/user-attachments/assets/6efe6108-cb39-4f8f-bd8e-8ac057fedfd2" />
+<img width="1000" height="566" alt="image" src="https://github.com/user-attachments/assets/281faeba-5071-4773-ba11-66bac6fefc07" />
+
+
 
 
 ---
