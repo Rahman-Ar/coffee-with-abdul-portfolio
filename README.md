@@ -1,3 +1,6 @@
+![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue)
+
+
 # ☕ Coffee With Abdul – My Portfolio
 
 Hey! I’m Abdul, and this is my little corner of the internet where I show off what I’m building.  
