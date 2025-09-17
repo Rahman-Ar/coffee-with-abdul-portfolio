@@ -8,7 +8,6 @@ Deployed live on **Netlify** 🚀
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 ![Homepage](./assets/homepage.png)
 ![Skills Section](./assets/skills.png)
