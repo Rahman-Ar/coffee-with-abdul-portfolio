@@ -8,7 +8,10 @@ Deployed live on **Netlify** 🚀
 ---
 
 ## 📸 Screenshots
-_Add some screenshots of your portfolio here (optional but highly recommended)._
+<img width="1898" height="869" alt="image" src="https://github.com/user-attachments/assets/15d38afe-776c-41a1-a799-60cafdd493be" />
+<img width="1896" height="865" alt="image" src="https://github.com/user-attachments/assets/11490f90-e091-453c-9eef-9ffff1ff5fdc" />
+<img width="1902" height="871" alt="image" src="https://github.com/user-attachments/assets/6665b332-f25d-446d-9696-5c8e4aee1670" />
+
 
 ---
 
