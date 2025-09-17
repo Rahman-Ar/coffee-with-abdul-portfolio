@@ -7,16 +7,11 @@ This portfolio is made with **React**, and yes — I put it online using **Netli
 
 ## 📸 A Sneak Peek
 
-Here’s a quick look at what you’ll see:
+Here’s a quick look at what you’ll see. The homepage is clean and simple — hopefully not too boring 😅. The skills section is where I brag a little about the stuff I know: React, CSS, and a bit of JavaScript magic. And finally, the projects section has some of my experiments and side projects. Not all of them are perfect, but hey, that’s how you learn!
 
-(./assets/homepage.png)  
-*The homepage — clean, simple, and hopefully not too boring 😅*
-
-(./assets/skills.png)  
-*Where I brag about the stuff I know. React, CSS, a little JS magic…*
-
-(./assets/projects.png)  
-*Some of my experiments and side projects. Not all are perfect, but hey, that’s how you learn!*
+![Homepage](./assets/homepage.png)  
+![Skills Section](./assets/skills.png)  
+![Projects Section](./assets/projects.png)  
 
 ---
 
