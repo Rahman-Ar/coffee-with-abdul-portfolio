@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+:root {
+  --bg: #ffffff;
+  --text: #000000;
+  --card: #f4f4f5;
+}
+
+.dark {
+  --bg: #0a0a0a;
+  --text: #ffffff;
+  --card: #1f1f1f;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
